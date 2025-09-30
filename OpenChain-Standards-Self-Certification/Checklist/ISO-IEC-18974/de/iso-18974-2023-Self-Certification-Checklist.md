@@ -9,20 +9,20 @@ Generation 2 - Version 1
 18.08.2025
 
 # Einleitung
-OpenChain ISO/IEC 18974 ist der Internationale Standard für die Open-Source-Sicherheitsgewährleistung. ISO/IEC 18974 hilft Organisationen, Open Source auf bekannte Sicherheitsschwachstellen wie CVEs, GitHub-Abhängigkeitswarnungen oder Paketmanager-Warnungen zu überprüfen.
+OpenChain ISO/IEC 18974 ist der Internationale Standard für die Open-Source-Sicherheitsgewährleistung. Der ISO/IEC 18974 Standardhilft Organisationen, Open Source auf bekannte Sicherheitsschwachstellen wie CVEs, GitHub-Abhängigkeitswarnungen oder Paketmanager-Warnungen zu überprüfen.
 
-Ihre Organisation kann sich selbst als konform mit OpenChain ISO/IEC 18974 zertifizieren. Dies ist so einfach wie die Beantwortung aller Fragen im Online-Formular mit „Ja“. Wenn eine Organisation nicht alle Fragen mit „Ja“ beantworten kann, erfüllt sie die Anforderungen des Standards noch nicht.
+Ihre Organisation kann sich selbst zertifizieren und mit dem OpenChain ISO/IEC 18974 Standard konform sein. Dazu müssen lediglich alle Fragen im Online-Formular mit „Ja“ beantwortet werden. Wenn eine Organisation aktuell nicht alle Fragen mit „Ja“ beantworten kann, erfüllt sie die Anforderungen des Standards noch nicht.
 
 Bitte beachten Sie, dass dies eine Selbstzertifizierung ist und Sie und Ihre Organisation allein für die Richtigkeit der nachstehenden Aussagen verantwortlich sind.
 
-Sie haben auch die Möglichkeit, diese Checkliste online auszufüllen:
+Sie haben ebenfalls die Möglichkeit, diese Checkliste online auszufüllen:
 https://openchainproject.org/checklist-iso-5230-2020
 
 # Die Checkliste zur Selbstzertifizierung
 
 ## Abschnitt 4.1.1
 
-- [ ] Wir verfügen über eine dokumentierte Richtlinie, die die Open-Source-Sicherheitsgewährleistung der bereitgestellten Software regelt.
+- [ ] Wir verfügen über eine dokumentierte Richtlinie, welche die Open-Source-Sicherheitsgewährleistung der bereitgestellten Software regelt.
 
 - [ ] Wir verfügen über ein dokumentiertes Verfahren, um allen Programmteilnehmern die Existenz der Open-Source-Richtlinie mitzuteilen.
 
